@@ -1,5 +1,7 @@
 # 100DaysOfPythonAdvanced
 
+- I will upload the notebooks in github soon. Till then providing you with the google collab links
+
 
 | Day | Topic |
 | --- | ----- |
